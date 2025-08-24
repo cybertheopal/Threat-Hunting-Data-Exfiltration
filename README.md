@@ -1,5 +1,5 @@
 ![Untitled design](https://github.com/user-attachments/assets/7ab49239-feaa-4986-b4f1-90f313fb911d)
-# Threat Hunt Report: Data Exfiltration (T1027.003 
+# Threat Hunt Report: Data Exfiltration (T1027.003) 
 
 ## Example Scenario:
 
